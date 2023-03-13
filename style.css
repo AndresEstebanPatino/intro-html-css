@@ -1,0 +1,43 @@
+body{
+    background-color: aquamarine;
+    
+}
+.cabecera{
+    background-color: blue;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+}
+
+.contenido{
+    background-color: blueviolet;
+    height: 60vh;
+    display: flex;
+}
+
+.pie-pagina{
+background-color: black;
+height: 20vh;
+}
+
+.section-1{
+    width: 50%;
+    height: 100%;
+    background-color: bisque;
+}
+
+.section-2{
+    width: 50%;
+    height: 100%;
+    background-color:orange;
+}
+.articulo-1{
+width: 100%;
+height: 50%;
+background-color: yellow;
+}
+.articulo-2{
+    width: 100%;
+    height: 50%;
+    background-color: green;
+}
